@@ -1,5 +1,7 @@
 Restaurant website using React.js, redux integrated, currently hosted using json-server
 
+Install the required modules for the proj
+
 Do clone the confusionWebsite_server repo before running the proj
 
 install json-server globally :
